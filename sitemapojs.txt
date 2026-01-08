@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jasaojs.com/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/blog/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/pembuatan-ojs/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/pengurusan-issn/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/membangun-jurnal-open-access-yang-sukses-dengan-ojs/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/pemilihan-server-untuk-ojs-vps-atau-hosting/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/langkah-langkah-membangun-web-ojs/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/tahapan-dalam-pembuatan-jurnal-baru/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/apa-itu-loa-jurnal/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/apa-itu-jurnal-scopus/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/blog/2/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/category/ojs/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/category/tips/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/category/jurnal/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/tips-issn-bagi-non-lembaga-pendidikan-atau-penelitian/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/review-artikel-jurnal-ilmiah-dengan-ai/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/apa-itu-garuda-index/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/5-keuntungan-menggunakan-ojs-untuk-penerbitan-jurnal-akademik-digital/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/kenapa-ojs-adalah-solusi-terbaik-untuk-penerbitan-jurnal-akademik-online/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/pentingnya-memberikan-doi-pada-jurnal-online/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/blog/3/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/author/administrator/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/category/artikel/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/pentingnya-mengindeks-jurnal-online/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/category/indexing/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/tingkatan-akreditasi-jurnal-di-indonesia/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/cara-mendaftarkan-issn-jurnal-ilmiah/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/author/administrator/page/2/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jasaojs.com/category/tutorial/</loc>
+  <lastmod>2026-01-08T07:40:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
