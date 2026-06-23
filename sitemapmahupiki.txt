@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/index</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/about</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/12</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/archive</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/announcement</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/about/editorialTeam</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/about/privacy</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/search/search</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/user/register</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/login</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/522</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/522/79</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/Reviewer</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/information/readers</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/information/authors</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/information/librarians</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/about/aboutThisPublishingSystem</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/1</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/2</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/3</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/4</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/5</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/6</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/7</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/8</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/10</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/11</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/announcement/view/1</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/login?source=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/login/lostPassword</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/user/register?source=</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/522/79/849</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F522%2F79%2F849</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/1/1</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/2</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/2/8</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/1</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/1/7</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/4</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/4/10</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/6</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/6/12</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/3</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/3/9</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/5</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/5/11</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/8</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/8/14</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/10</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/10/15</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/39</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/39/17</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/11</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/11/16</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/12</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/12/13</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/40</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/40/18</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/41</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/41/19</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/view/3/2</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/44</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/44/22</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/43</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/43/20</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/54</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/54/23</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/56</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/56/24</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/58</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/58/25</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/7</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/7/27</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/66</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/66/28</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/52</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/52/29</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/49</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/49/30</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/69</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/69/31</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/64</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/64/33</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/80</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/80/40</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/81</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/81/41</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/82</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/82/42</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/83</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/83/43</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/84</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/84/38</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/85</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/85/45</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/101</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/101/47</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/94</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/94/46</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/95</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/95/48</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/93</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/93/49</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/99</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/99/50</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/92</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/92/51</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/102</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/102/52</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/104</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/104/53</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/142</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/142/55</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/129</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/129/57</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/158</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/158/61</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/160</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/160/62</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/180</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/180/63</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/190</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/190/64</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/333</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/333/70</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/366</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/366/66</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/372</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/372/71</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/334</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/334/68</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/336</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/336/69</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/513</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/513/73</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/515</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/515/80</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/516</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/516/76</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/517</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/517/77</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/518</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/view/518/78</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/user/register?source=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Fuser%2Fprofile%2Froles</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/download/1/1</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Fissue%2Fdownload%2F1%2F1</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/2/8/51</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F2%2F8%2F51</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/1/7/50</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F1%2F7%2F50</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/4/10/53</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F4%2F10%2F53</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/6/12/55</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F6%2F12%2F55</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/3/9/52</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F3%2F9%2F52</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/5/11/54</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F5%2F11%2F54</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/8/14/81</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F8%2F14%2F81</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/10/15/76</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F10%2F15%2F76</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/search/search?query=Perbuatan%20Kesalahan%20Sanksi%20Pidana</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/39/17/83</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F39%2F17%2F83</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/11/16/80</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F11%2F16%2F80</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/12/13/65</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F12%2F13%2F65</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/40/18/87</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F40%2F18%2F87</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/41/19/89</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F41%2F19%2F89</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/issue/download/3/2</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Fissue%2Fdownload%2F3%2F2</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/44/22/114</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F44%2F22%2F114</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/43/20/109</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F43%2F20%2F109</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/54/23/121</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F54%2F23%2F121</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/56/24/124</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F56%2F24%2F124</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/58/25/130</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F58%2F25%2F130</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/7/27/159</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F7%2F27%2F159</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/66/28/160</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F66%2F28%2F160</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/52/29/161</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F52%2F29%2F161</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/49/30/162</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F49%2F30%2F162</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/69/31/163</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F69%2F31%2F163</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/64/33/166</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F64%2F33%2F166</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/80/40/199</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F80%2F40%2F199</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/81/41/200</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F81%2F41%2F200</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/82/42/201</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F82%2F42%2F201</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/83/43/202</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F83%2F43%2F202</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/84/38/197</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F84%2F38%2F197</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/85/45/208</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F85%2F45%2F208</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/101/47/236</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F101%2F47%2F236</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/search/search?query=Narkotika%20Partisipasi%20Perlindungan%20Hukum</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/94/46/234</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F94%2F46%2F234</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/95/48/240</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F95%2F48%2F240</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/93/49/244</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F93%2F49%2F244</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/99/50/248</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F99%2F50%2F248</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/92/51/252</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F92%2F51%2F252</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/102/52/263</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F102%2F52%2F263</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/104/53/264</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F104%2F53%2F264</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/142/55/336</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F142%2F55%2F336</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/129/57/339</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F129%2F57%2F339</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/158/61/444</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F158%2F61%2F444</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/160/62/445</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F160%2F62%2F445</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/180/63/447</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F180%2F63%2F447</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/190/64/448</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F190%2F64%2F448</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/333/70/662</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F333%2F70%2F662</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/366/66/653</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F366%2F66%2F653</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/372/71/665</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F372%2F71%2F665</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/334/68/656</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F334%2F68%2F656</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/336/69/659</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F336%2F69%2F659</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/513/73/839</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F513%2F73%2F839</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/515/80/862</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F515%2F80%2F862</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/516/76/841</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F516%2F76%2F841</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/517/77/842</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F517%2F77%2F842</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/index.php/jhpk/article/download/518/78/843</loc>
+  <lastmod>2026-06-23T05:54:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jurnalmahupiki.org/ojs/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fjurnalmahupiki.org%2Fojs%2Findex.php%2Fjhpk%2Farticle%2Fdownload%2F518%2F78%2F843</loc>
+  <lastmod>2026-06-17T08:59:30+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+</urlset>
